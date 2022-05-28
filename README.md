@@ -1,2 +1,3 @@
-# DATCOM-ETC
-Repositorio para la asignatura Emprendimiento y Transferencia de Conocimiento del Máster en Ciencia de Datos e Ingeniería de Computadores 
+# Emprendimiento y Transferencia de Conocimiento
+
+## Máster Universitario en Ciencia de Datos e Ingeniería de Computadores 21-22
